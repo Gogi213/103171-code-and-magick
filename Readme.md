@@ -1,6 +1,6 @@
 # Личный проект «Код и Магия» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Георгий Стренин](https://up.htmlacademy.ru/javascript/4/user/103171).
+* Студент: [](https://up.htmlacademy.ru/javascript/4/user/103171).
 * Наставник: `Мартин Шульц`.
 
 ---
