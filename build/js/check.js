@@ -6,7 +6,7 @@ function getMessage(a, b) {
 	}
 	// 
 	if (typeof a === 'number'){
-		return 'Я прыгнул на' + a * 100 + 'сантиметров';
+		return 'Я прыгнул на ' + a * 100 + ' сантиметров';
 	}
 	// 
 	if (a instanceof Array && b instanceof Array){
