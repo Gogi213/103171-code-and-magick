@@ -3,15 +3,13 @@ function getMessage (a, b) {
     if (a) {
       return 'Я попал в ' + b;
     }
-    if (!a) {
-      return 'Я попал в ' + b;
+    else {
+      return 'Я никуда не попал';
     }
   }
-	//
   if (typeof a === 'number') {
     return 'Я прыгнул на ' + a * 100 + ' сантиметров';
   }
-	//
   if (a instanceof Array && b instanceof Array) {
     var lenght = 0;
     for (var i = 0; i < a.length; i++) {
